@@ -5,5 +5,5 @@ source /etc/profile
 cd /Users/yuebinghui/Documents/program/github/note          
 git push
 
-echo "my_cron_script2当前时间：$(date)" >> /Users/yuebinghui/Documents/program/github/note/time.txt
+echo "git push当前时间：$(date)" >> /Users/yuebinghui/Documents/program/github/note/time.txt
 
