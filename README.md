@@ -6,12 +6,9 @@ crontab -e 编辑
 crontab -r 删除
 
 ```
-*/2 * * * * /bin/bash /Users/yuebinghui/Documents/program/github/note/my_cron_script.sh > /Users/yuebinghui/Documents/program/github/note/logfile 2>&1
-*/4 * * * * /bin/bash /Users/yuebinghui/Documents/program/github/note/my_cron_script2.sh > /Users/yuebinghui/Documents/program/github/note/logfile 2>&1
-
-*/20 * * * * /bin/bash /Users/yuebinghui/Documents/program/github/note/my_cron_script.sh > /Users/yuebinghui/Documents/program/github/note/logfile 2>&1
-
-*/20 * * * * /bin/bash /Users/yuebinghui/Documents/program/github/note/my_cron_script.sh > /Users/yuebinghui/Documents/program/github/note/logfile 2>&1
+*/20 * * * * /bin/bash /Users/yuebinghui/Documents/program/github/note/my_cron_script.sh > /Users/yuebinghui/Documents/program/github/note/log_my_cron_script 2>&1
+50 10 * * * /bin/bash /Users/yuebinghui/Documents/program/github/note/my_cron_script2.sh > /Users/yuebinghui/Documents/program/github/note/log_my_cron_script2 2>&1
+45 20 * * * /bin/bash /Users/yuebinghui/Documents/program/github/note/my_cron_script2.sh > /Users/yuebinghui/Documents/program/github/note/log_my_cron_script2 2>&1
 
 ```
 
