@@ -32,3 +32,9 @@ $\theta$
 [s](#0)
 
 <a href="#0">1</a>
+
+
+
+
+
+![image-20240904093926696](/Users/yuebinghui/Documents/program/github/note/images/image-20240904093926696.png)
