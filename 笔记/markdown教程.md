@@ -38,3 +38,5 @@ $\theta$
 
 
 ![image-20240904093926696](/Users/yuebinghui/Documents/program/github/note/images/image-20240904093926696.png)
+
+<img src="/Users/yuebinghui/Documents/program/github/note/images/image-20240904094350391.png" alt="image-20240904094350391" style="zoom:50%;" />
