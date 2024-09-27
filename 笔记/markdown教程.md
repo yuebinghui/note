@@ -18,7 +18,7 @@ $\sqrt[m]{2n}$
 
 $A^{m}_{n}$
 
-[函数的概念、特性、基本初等函数、反三角、对、幂、三、指](/Users/yuebinghui/Documents/program/github/note/笔记/数学/周洋鑫/02.零基础核心考点精讲1-1～2-1.md)
+[函数的概念、特性、基本初等函数、反三角、对、幂、三、指](/Users/yuebinghui/Documents/program/github/note/笔记/数学/周洋鑫/零基础提前学/02.零基础核心考点精讲1-1～2-1.md)
 
 $\alpha$
 $\theta$
