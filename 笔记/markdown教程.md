@@ -43,3 +43,5 @@ $\theta$
 
 <img src="/Users/yuebinghui/Documents/program/github/note/images/image-20240904122848461.png" alt="image-20240904122848461" style="zoom:50%;" />
 
+![image-20241003095236143](/Users/yuebinghui/Documents/program/github/note/images/image-20241003095236143.png)
+
