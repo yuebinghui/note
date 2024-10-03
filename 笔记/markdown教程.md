@@ -14,7 +14,7 @@ $\sqrt[m]{2^n}$
 
 $\sqrt[m]{2n}$
 
-<img src="/Users/yuebinghui/Documents/program/github/note/images/image-20240714100215598.png" alt="image-20240714100215598" style="zoom:50%;" />
+![](/Users/yuebinghui/Documents/program/github/note/images/image-20240714100215598.png)
 
 $A^{m}_{n}$
 
@@ -23,7 +23,7 @@ $A^{m}_{n}$
 $\alpha$
 $\theta$
 
-<img src="/Users/yuebinghui/Documents/program/github/note/images/image-20240804133504480.png" alt="image-20240804133504480" style="zoom:50%;" />
+![](/Users/yuebinghui/Documents/program/github/note/images/image-20240804133504480.png)
 
 [🌟❓❌]
 
@@ -39,9 +39,9 @@ $\theta$
 
 ![image-20240904093926696](/Users/yuebinghui/Documents/program/github/note/images/image-20240904093926696.png)
 
-<img src="/Users/yuebinghui/Documents/program/github/note/images/image-20240904094350391.png" alt="image-20240904094350391" style="zoom:50%;" />
+![](/Users/yuebinghui/Documents/program/github/note/images/image-20240904094350391.png)
 
-<img src="/Users/yuebinghui/Documents/program/github/note/images/image-20240904122848461.png" alt="image-20240904122848461" style="zoom:50%;" />
+![](/Users/yuebinghui/Documents/program/github/note/images/image-20240904122848461.png)
 
 ![image-20241003095236143](/Users/yuebinghui/Documents/program/github/note/images/image-20241003095236143.png)
 
