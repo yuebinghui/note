@@ -1,4 +1,2 @@
-remote: Internal Server Error
 To github.com:yuebinghui/note.git
- ! [remote rejected] dev/1.0.0 -> dev/1.0.0 (Internal Server Error)
-error: failed to push some refs to 'github.com:yuebinghui/note.git'
+   e49c24e..4066bab  dev/1.0.0 -> dev/1.0.0
