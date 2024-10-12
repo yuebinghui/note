@@ -32,16 +32,3 @@ $\theta$
 [s](#0)
 
 <a href="#0">1</a>
-
-
-
-
-
-![image-20240904093926696](/Users/yuebinghui/Documents/program/github/note/images/image-20240904093926696.png)
-
-![](/Users/yuebinghui/Documents/program/github/note/images/image-20240904094350391.png)
-
-![](/Users/yuebinghui/Documents/program/github/note/images/image-20240904122848461.png)
-
-![image-20241003095236143](/Users/yuebinghui/Documents/program/github/note/images/image-20241003095236143.png)
-
