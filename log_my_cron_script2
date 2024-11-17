@@ -1,2 +1,5 @@
-To github.com:yuebinghui/note.git
-   6fb049e4..1469b116  dev/1.0.0 -> dev/1.0.0
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
