@@ -1,3 +1,2 @@
-client_loop: send disconnect: Broken pipe
-send-pack: unexpected disconnect while reading sideband packet
-fatal: the remote end hung up unexpectedly
+To github.com:yuebinghui/note.git
+   1ae94fd9..05ec455c  dev/1.0.0 -> dev/1.0.0
