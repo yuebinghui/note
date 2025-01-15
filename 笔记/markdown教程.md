@@ -21,8 +21,11 @@ $\frac{1}{2}$
 $\sqrt[m]{2^n}$
 
 $\sqrt[m]{2n}$
+![alt text](image.png)
 
-![](/Users/yuebinghui/Documents/program/github/note/images/image-20240714100215598.png)
+![](/Snipaste_2025-01-15_14-59-36.jpg)
+![](/Snipaste_2025-01-15_14-59-36.jpg)
+
 
 $A^{m}_{n}$
 
