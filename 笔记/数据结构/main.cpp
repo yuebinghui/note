@@ -1,58 +1,12 @@
 #include <iostream>
 
-#define MaxSize 10
-#define ElemType int
+typedef int ElemType;
+#define MaxSize 6
 typedef struct
 {
-    ElemType data[MaxSize];
-    int length;
-} SqList;
-
-void InitList(SqList &L)
-{
-    L = ()malloc(sizeof(SqList)); // 分配内存
-    L.length = 0;
-}
-bool InsertList(SqList &L, int i, ElemType e)
-{
-    if (i < 1 || i > L.length + 1)
-    {
-        return false; // 插入位置不合法
-    }
-    if (L.length >= MaxSize)
-    {
-        return false; // 顺序表已满
-    }
-    for (int j = L.length; j >= i; j--)
-    {
-        L.data[j] = L.data[j - 1]; // 向后移动元素
-    }
-    L.data[i - 1] = e; // 插入新元素
-    L.length++;
-    return true;
-}
-bool DeleteList(SqList &L, int i, ElemType &e)
-{
-    if (i < 1 || i > L.length)
-    {
-        return false; // 删除位置不合法
-    }
-    e = L.data[i - 1]; // 保存被删除的元素
-    for (int j = i; j < L.length; j++)
-    {
-        L.data[j - 1] = L.data[j]; // 向前移动元素
-    }
-    L.length--;
-    return true;
-}
-void Print(SqList L)
-{
-    for (int i = 0; i < L.length; ++i)
-    {
-        printf("L.data[%d]=%d\n", i, L.data[i]);
-    }
-    printf("\n");
-}
+    ElemType data[MaxSize]; // 存储空间基址
+    int length;             // 当前长度
+} SqList, *SqList_point;
 
 void swap(ElemType &a, ElemType &b)
 {
@@ -78,13 +32,28 @@ int partition1(SqList *&L)
     return i;
 }
 
+void Printf(SqList_point L)
+{
+    for (int i = 0; i < L->length; i++)
+    {
+        printf("L->data[%d]=%d\n", i, L->data[i]);
+    }
+    printf("\n");
+}
+
 int main()
 {
+    int a[6] = {2, 1, 3, 4, 5, 6};
+    SqList_point L;
+    L = (SqList_point)malloc(sizeof(SqList));
+    L->length = 6;
+    for (int i = 0; i < L->length; i++)
+    {
+        L->data[i] = a[i];
+    }
 
-    SqList *L;
-    InitList(*L);
-    InsertList(*L, 1, 10);
-    Print(*L);
-    printf("Hello, World1!\n");
+    partition1(L);
+    
+    Printf(L);
     return 0;
 }
